@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "DoSomething",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "Memo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "param",
+						"type": "uint256[]"
+					}
+				],
+				"name": "Para",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Array.sol": "Array"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Array.sol": {
+			"keccak256": "0xd5aeda12b83861115f33f8825e6228ab805c44f52ebc9ebd7717c62dc9ec9405",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7e73488bca504f8ec52ba67e14b96b6d1c5fcad8e71cf832eee42d98aa325ae2",
+				"dweb:/ipfs/QmaDmYHtTZVeNjHGvxiNDwfgo9ZN2UcvS9gnM9wEiEXDdM"
+			]
+		}
+	},
+	"version": 1
+}

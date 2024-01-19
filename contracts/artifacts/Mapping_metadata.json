@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "CRUD",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Mapping.sol": "Mapping"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Mapping.sol": {
+			"keccak256": "0xd72128fdb6faf1373e3fce2686f955a2da9abf3ad956ad1189197a5d170d8de1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ee22c3af989cc2ef2d96d0954699f8d203c65fc89e05c5c67f53938cf1ce2392",
+				"dweb:/ipfs/Qmf4CpJDB2WALM52boMdf5vfN8Tsq7x7QPyKqsoe17Cgy3"
+			]
+		}
+	},
+	"version": 1
+}
